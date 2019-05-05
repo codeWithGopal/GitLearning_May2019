@@ -5,3 +5,4 @@ this file is created in feature 1 branch of GIT repo.
 
 user 2 has changed the file
 
+master changes
