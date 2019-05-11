@@ -5,11 +5,12 @@ this file is created in feature 1 branch of GIT repo.
 
 user 2 has changed the file
 
-<<<<<<< HEAD
-master changes
-=======
+
+master change
 just make sone uopadtes
->>>>>>> feature2
+feature2
 
 
 vkgvjljvjgjfvj54545454
+
+ I have changed the file
